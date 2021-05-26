@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Style52321Test.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Style Down instance 10000" x="0" y="0" width="651" height="851"/>
+	<SubTexture name="Style Down instance 10001" x="651" y="0" width="651" height="851"/>
+	<SubTexture name="Style Down instance 10002" x="1302" y="0" width="651" height="851"/>
+	<SubTexture name="Style Left instance 10000" x="1953" y="0" width="651" height="850"/>
+	<SubTexture name="Style Left instance 10001" x="2604" y="0" width="651" height="850"/>
+	<SubTexture name="Style Left instance 10002" x="3255" y="0" width="651" height="850"/>
+	<SubTexture name="Style Right instance 10000" x="0" y="851" width="651" height="851"/>
+	<SubTexture name="Style Right instance 10001" x="651" y="851" width="651" height="851"/>
+	<SubTexture name="Style Right instance 10002" x="1302" y="851" width="651" height="851"/>
+	<SubTexture name="Style Right instance 10003" x="1302" y="851" width="651" height="851"/>
+	<SubTexture name="Style Up instance 10000" x="1953" y="851" width="651" height="851"/>
+	<SubTexture name="Style Up instance 10001" x="2604" y="851" width="651" height="851"/>
+	<SubTexture name="Style Up instance 10002" x="3255" y="851" width="651" height="851"/>
+	<SubTexture name="Style idle instance 10000" x="0" y="1702" width="650" height="850" frameX="0" frameY="0" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10001" x="650" y="1702" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10002" x="1300" y="1702" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10003" x="1950" y="1702" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10004" x="2600" y="1702" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10005" x="3250" y="1702" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10006" x="0" y="2552" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10007" x="650" y="2552" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10008" x="1300" y="2552" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10009" x="1950" y="2552" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+	<SubTexture name="Style idle instance 10010" x="2600" y="2552" width="650" height="850" frameX="0" frameY="-2" frameWidth="650" frameHeight="852"/>
+</TextureAtlas>

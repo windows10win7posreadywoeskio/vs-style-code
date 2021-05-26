@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="style.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BEEGPOINT instance 10000" x="0" y="0" width="391" height="402"/>
+	<SubTexture name="OHFUCK instance 10000" x="391" y="0" width="330" height="340"/>
+	<SubTexture name="beginning music instance 10000" x="721" y="0" width="391" height="401"/>
+	<SubTexture name="default instance 10000" x="1112" y="0" width="323" height="313"/>
+	<SubTexture name="pointy instance 10000" x="1435" y="0" width="392" height="401"/>
+</TextureAtlas>
