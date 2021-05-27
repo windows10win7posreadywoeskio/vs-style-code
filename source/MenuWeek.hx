@@ -33,7 +33,7 @@ class MenuWeek extends MusicBeatState
 		['Pico', 'Philly', "Blammed"],
 		['Satin-Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter-Horrorland'],
-		['Senpai', 'Roses', 'Thorns']
+		['Senpai', 'Roses', 'Thorns'],
 		['Enter', 'Haha', 'AFTr']
 	];
 	
@@ -50,7 +50,7 @@ class MenuWeek extends MusicBeatState
 		"pico",
 		"mom",
 		"parents-christmas",
-		"senpai"
+		"senpai",
 		"style"
 	];
 
@@ -61,7 +61,7 @@ class MenuWeek extends MusicBeatState
 		"PICO",
 		"MOMMY MUST MURDER",
 		"RED SNOW",
-		"hating simulator ft. moawling"
+		"hating simulator ft. moawling",
 		"Let's be Stylish instead of Funky"
 	];
 
