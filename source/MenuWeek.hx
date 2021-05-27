@@ -34,13 +34,14 @@ class MenuWeek extends MusicBeatState
 		['Satin-Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter-Horrorland'],
 		['Senpai', 'Roses', 'Thorns']
+		['Enter', 'Haha', 'AFTr']
 	];
 	
 	var curWeekData:Array<Dynamic> = [];
 
 	public static var curDifficulty:Int = 2;
 
-	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];
+	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true, true];
 
 	var weekCharacters:Array<String> = [
 		"gf",
@@ -50,6 +51,7 @@ class MenuWeek extends MusicBeatState
 		"mom",
 		"parents-christmas",
 		"senpai"
+		"style"
 	];
 
 	var weekNames:Array<String> = [
@@ -60,6 +62,7 @@ class MenuWeek extends MusicBeatState
 		"MOMMY MUST MURDER",
 		"RED SNOW",
 		"hating simulator ft. moawling"
+		"Let's be Stylish instead of Funky"
 	];
 
 	var txtWeekTitle:FlxText;

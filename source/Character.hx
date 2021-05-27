@@ -474,6 +474,25 @@ class Character extends FlxSprite
 				updateHitbox();
 
 				antialiasing = false;
+			
+			case 'style':
+				tex = Paths.getSparrowAtlas('images/STYLES','week7');
+				frames = tex;
+
+				animation.addByPrefix('idle', "Style idle", 24, false);
+				animation.addByPrefix('singUP', "Style Up", 24, false);
+				animation.addByPrefix('singDOWN', "Style Down", 24, false);
+				animation.addByPrefix('singLEFT', 'Style Left', 24, false);
+				animation.addByPrefix('singRIGHT', 'Style Right', 24, false);
+
+				addOffset('idle');
+				addOffset("singUP", 4, -4);
+				addOffset("singRIGHT", -34);
+				addOffset("singLEFT", 27, -7);
+				addOffset("singDOWN", 16, -22);
+
+				playAnim('idle');
+
 			case 'senpai-angry':
 				frames = Paths.getSparrowAtlas('characters/senpai','shared');
 				animation.addByPrefix('idle', 'Angry Senpai Idle', 24, false);
