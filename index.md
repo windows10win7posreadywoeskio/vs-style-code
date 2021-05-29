@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## oh hey hi
 
 You can use the [editor on GitHub](https://github.com/StyleCannotCodeForShit/vs-style-code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+check in github, B).
+we don't do shit here.
+this is only for helping [@StyleCannotCodeForShit](https://github.com/StyleCannotCodeForShit).
+so yeah
+bye.
 
 ### Markdown
 
