@@ -81,7 +81,7 @@ class MainVariables
                 accuracyDisplay: true,
                 noteOffset: 0,
                 spamPrevention: false,
-                firstTime: true,
+                firstTime: false,
                 accuracyType: 'complex',
                 ratingDisplay: true,
                 timingDisplay: true,
